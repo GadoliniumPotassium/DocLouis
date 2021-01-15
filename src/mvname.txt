@@ -1,0 +1,25 @@
+jab
+rapid jab
+forward tilt:ftilt, f-tilt, f tilt, forward-tilt
+up tilt: utilt, u-tilt, u tilt,up-tilt
+own tilt:dtilt, d-tilt, d tilt,down-tilt
+dash attack: dash-attack,da
+forward smash: fsmash, f-smash, f smash, forward-smash
+up smash: usmash, u-smash, u smash, up-smash
+down smash: dsmash, d-smash, d smash, down-smash
+neutral air: nair, n-air, n air, neutral-air
+forward air: fair, f-air, f air, forward-air
+back air: bair, b-air, b air, back-air
+down air: dair, d-air, d air, down-air
+neutral b: neutral special, neutral-special, neutral-b
+side b: side special, side-special, side-b,sideb
+up b: up special, up-special,uspecial,u-special,up-b,upb
+down b: down special, down-special, dspecial,down-special,downb
+grab
+dash grab: dash-grab
+pivot grab: pivot-grab, p-grab
+pummel
+forward throw:fthrow,f-throw, f throw, forward-throw
+backward throw: bthrow,b-throw, b throw, back-throw,back throw,backthrow
+up throw: uthrow,u-throw, u throw, up-throw
+down throw:dthrow, d-throw, d throw

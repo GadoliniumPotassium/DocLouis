@@ -1,0 +1,85 @@
+banjo and kazooie, banjo:https://ultimateframedata.com/banjo_and_kazooie.php
+bayonetta, bayo: https://ultimateframedata.com/bayonetta.php
+bowser: https://ultimateframedata.com/bowser.php
+bowser jr, bowser-jr,bastard child: https://ultimateframedata.com/bowser_jr.php
+byleth: https://ultimateframedata.com/byleth.php
+captain falcon, falcon,cpt falcon,cbt falcon: https://ultimateframedata.com/captain_falcon.php
+chrom: https://ultimateframedata.com/chrom.php
+cloud: https://ultimateframedata.com/cloud.php
+corrin: https://ultimateframedata.com/corrin.php
+daisy,other peach:https://ultimateframedata.com/daisy.php
+dark pit: https://ultimateframedata.com/dark_pit.php
+dark samus:
+diddy, diddy kong:https://ultimateframedata.com/diddy_kong.php
+donkey kong, DK: https://ultimateframedata.com/donkey_kong.php
+dr.mario, dr mario, doctor mario,doc mario,doc:https://ultimateframedata.com/dr_mario.php
+duck hunt:https://ultimateframedata.com/duck_hunt.php
+falco, falco lombardi:https://ultimateframedata.com/falco.php
+fox, fox mccloud: https://ultimateframedata.com/fox.php
+ganondorf, ganon, the dorf,dorf:https://ultimateframedata.com/ganondorf.php
+greninja: https://ultimateframedata.com/greninja.php
+hero: https://ultimateframedata.com/hero.php
+ice climbers, ice-climbers,iceys: https://ultimateframedata.com/ice_climbers.php
+ike: https://ultimateframedata.com/ike.php
+incineroar, incin: https://ultimateframedata.com/incineroar.php
+inkling: https://ultimateframedata.com/inkling.php
+isabelle: https://ultimateframedata.com/isabelle.php
+jigglypuff, jiggs: https://ultimateframedata.com/jigglypuff.php
+joker, batmans nemesis: https://ultimateframedata.com/joker.php
+ken: https://ultimateframedata.com/ken.php
+king dedede, king-dedede,king ddd, king-ddd,d3, king d3, king-d3,dedede,ddd:https://ultimateframedata.com/king_dedede.php
+king k rool, king krool, king k.rool, king k. rool, k rool, k.rool,k-rool:https://ultimateframedata.com/king_k_rool.php
+kirby: https://ultimateframedata.com/kirby.php
+link: https://ultimateframedata.com/link.php
+little mac, little-mac, mac, mac baby, mcdonalds, super armour the character,boxing gloves, punchy mcpunhcer:https://ultimateframedata.com/little_mac.php
+lucario:https://ultimateframedata.com/lucario.php
+lucas:https://ultimateframedata.com/lucas.php
+lucina, chads wife: https://ultimateframedata.com/lucina.php
+luigi: https://ultimateframedata.com/luigi.php
+mario:https://ultimateframedata.com/mario.php
+marth: https://ultimateframedata.com/marth.php
+mega-man, mega man:https://ultimateframedata.com/mega_man.php
+meta-knight, mk, meta knight, metaknight:https://ultimateframedata.com/meta_knight.php
+mewtwo,m2,mew two, mew-two, mew2,mew: https://ultimateframedata.com/mewtwo.php
+mii brawler, brawler, mii-brawler: https://ultimateframedata.com/mii_brawler.php
+mii gunner,  gunner, mii-gunner: https://ultimateframedata.com/mii_gunner.php
+mii swordfighter, swordfighter, mii-swordfighter, swordman, swordsman,mii sword: https://ultimateframedata.com/mii_swordfighter.php
+min min, min-min, minmin: https://ultimateframedata.com/minmin.php
+mr. game and watch, game and watch, gnw, game n watch, game & watch, game&watch,gamenwatch, mr game and watch, mr game n watch, mr gnw, mr game & watch: https://ultimateframedata.com/mr_game_and_watch.php
+ness: https://ultimateframedata.com/ness.php
+olimar, alph: https://ultimateframedata.com/olimar.php
+pac man,  pac-man, pac,pacman: https://ultimateframedata.com/pac_man.php
+palutena, palu: https://ultimateframedata.com/palutena.php
+peach: https://ultimateframedata.com/peach.php
+pichu, rat tooth 2: https://ultimateframedata.com/pichu.php
+pikachu, pika, rat tooth 1: https://ultimateframedata.com/pikachu.php
+piranha plant, plant, piranha-plant:https://ultimateframedata.com/piranha_plant.php
+pit: https://ultimateframedata.com/pit.php
+squirtle:https://ultimateframedata.com/pt_squirtle.php
+ivysaur, ivy:https://ultimateframedata.com/pt_ivysaur.php
+charizard:https://ultimateframedata.com/pt_charizard.php
+richter:https://ultimateframedata.com/richter.php
+ridley:https://ultimateframedata.com/ridley.php
+rob, r.o.b:https://ultimateframedata.com/rob.php
+robin:https://ultimateframedata.com/robin.php
+rosalina and luma, rosalina, rosa, luma:https://ultimateframedata.com/rosalina_and_luma.php
+roy:https://ultimateframedata.com/roy.php
+ryu:https://ultimateframedata.com/ryu.php
+samus:https://ultimateframedata.com/samus.php
+sephiroth:https://ultimateframedata.com/sephiroth.php
+sheik:https://ultimateframedata.com/sheik.php
+shulk:https://ultimateframedata.com/shulk.php
+simon:https://ultimateframedata.com/simon.php
+snake:https://ultimateframedata.com/snake.php
+sonic, blue mario, rat tooth 3:https://ultimateframedata.com/sonic.php
+steve, alex, zombie, enderman: https://ultimateframedata.com/steve.php
+terry:https://ultimateframedata.com/terry.php
+toon link, tink:https://ultimateframedata.com/toon_link.php
+villager:https://ultimateframedata.com/villager.php
+wario:https://ultimateframedata.com/wario.php
+wii fit trainer, trainer, wii fit, wii-fit, wii-fit-trainer:https://ultimateframedata.com/wii_fit_trainer.php
+wolf:https://ultimateframedata.com/wolf.php
+yoshi:https://ultimateframedata.com/yoshi.php
+young link, yink:https://ultimateframedata.com/young_link.php
+zelda:https://ultimateframedata.com/zelda.php
+zero suit samus, zss, zero-suit-samus, hot babe: https://ultimateframedata.com/zero_suit_samus.php
