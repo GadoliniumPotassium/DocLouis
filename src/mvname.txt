@@ -1,5 +1,9 @@
-jab
-rapid jab
+jab:jab
+jab 1:jab
+jab 2:jab
+jab 3:jab
+rapid jab:rapid jab
+rapid jab finisher:rapid jab 
 forward tilt:ftilt, f-tilt, f tilt, forward-tilt
 up tilt: utilt, u-tilt, u tilt,up-tilt
 own tilt:dtilt, d-tilt, d tilt,down-tilt

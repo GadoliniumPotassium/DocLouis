@@ -1,11 +1,9 @@
-import re
 import requests
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 
-## to get the div set the command is 
-## divTag = soup.find_all("div", {"class": ""})
-## from this we can get all the moves a character has and isolate the move and data we need.
+
+##BUG THIS ENTIRE CLASS NEEDS FIXING
 
 txtFile=open("src/mvname.txt","r")
 moveList=txtFile.readlines()
@@ -19,6 +17,11 @@ def get_all_moves(site):
 def filter_data(data):
     data_string=""
     soup=BeautifulSoup(str(data),'lxml')
+    image=soup.find_all("a")
+    img_link=""
+    for x in image:
+        img_link+="https://ultimateframedata.com/"+x['data-featherlight']+"\n"
+    print(img_link)
     movename=soup.find_all("div",{"class" : "movename"})[0].text.strip()
     startup=soup.find_all("div",{"class":"startup"})[0].text.strip()
     total_frames=soup.find_all("div",{"class":"totalframes"})[0].text.strip()
@@ -32,28 +35,33 @@ def filter_data(data):
     whichhitbox=soup.find_all("div",{"class","whichhitbox"})[0].text.strip()
     
     #now we are going to fill the data string with all the information and then return it
-    data_string = "this move is "+ movename + "\nit starts up on frame(s) "+startup + "\nit lasts for "+total_frames+" frames with frame(s) " + active_frame + " being the active frame(s)\n"+ "it has "+landing_lag+" frames of landing lag\n"+ "it has base damage of "+base_damage+"\n"+ "it has " + shield_lag + "frames of shield lag and " + shield_stun + " frames of shield stun\n" + "it is also " + on_shield + " frames on shield.\n"+ "Important to note on this move is that " + notes+ "." + "special note:" + whichhitbox 
+    data_string =img_link+"\nmovename: "+ movename + "\nstartup frame(s) "+startup + "\nlasts for "+total_frames+"\nActive frames: " + active_frame + "\n"+ "landing lag: "+landing_lag+" frames\n"+ " base damage: "+base_damage+"\n"+ "shield lag:" + shield_lag + " frames\nshield stun:" + shield_stun + "\n" + "on shield:" + on_shield + " frames\n"+ "Note:" + notes + "\nspecial note:" + whichhitbox 
     print(data_string)
     return data_string
 
 
 def isolate_req_move_post_data(all_moves,req_move):
     move_exists=False
+    asked_move=""
     for move in moveList:
-        if req_move in str(move):
+        if req_move.lower().strip() in str(move).lower().strip():
             a=move.split(":")
-            req_move=a[0]
+            asked_move=a[0]
+            print(asked_move)
             break
-    
+            
     move=""
     move_div=""
+    info=""
     for move in all_moves:
-        if str(req_move).lower() in str(move).lower():
+        if str(asked_move).lower() in str(move).lower():
+            print("in here")
             move_exists=True
             move_div=move
+            info += filter_data(move_div)
             break
 
     if move_exists==False: 
-        return "Sorry baby, I don't know what you're talking about."
+        return False
 
-    return filter_data(move_div) 
+    return info 
